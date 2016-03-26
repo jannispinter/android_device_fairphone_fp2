@@ -35,7 +35,7 @@
 # 0P6B64000 / 0P6B68000 - International LTE/WCDMA/GSM + GSM version
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := htc_m8dug,htc_m8dwg,m8dugl,m8dwgl
+TARGET_OTA_ASSERT_DEVICE := fairphone_fp2
 
 # Kernel
 TARGET_KERNEL_CONFIG := cm_m8dug_defconfig
