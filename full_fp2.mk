@@ -27,7 +27,7 @@
 $(call inherit-product-if-exists, vendor/htc/m8d/m8d-vendor.mk)
 
 # Inherit from m8d
-$(call inherit-product, device/htc/m8d/device.mk)
+$(call inherit-product, device/fairphone/fp2/device.mk)
 
 # Set those variables here to overwrite the inherited values
 PRODUCT_NAME := full_fp2
