@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-$(call inherit-product, device/htc/m8d/full_m8d.mk)
+$(call inherit-product, device/fairphone/fp2/full_fp2.mk)
 
 # Enhanced NFC
 $(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
