@@ -1,4 +1,5 @@
-# Device configuration for HTC One (M8) Dual SIM
+# Device configuration for Fairphone 2
+This is a work in progress port for CM13 to the Fairphone 2, based on HTC One M8 sources. Since both devices have almost the same hardware.
 
 ## Spec Sheet
 
@@ -8,19 +9,15 @@
 | Chipset                 | Qualcomm MSM8974AB Snapdragon 801 |
 | GPU                     | Adreno 330                        |
 | Memory                  | 2GB RAM                           |
-| Shipped Android Version | 4.4.2                             |
-| Storage                 | 16 GB                             |
+| Shipped Android Version | 5.1                             |
+| Storage                 | 32 GB                             |
 | MicroSD                 | Up to 128GB                       |
-| Battery                 | 2600 mAh                          |
+| Battery                 | ? mAh                          |
 | Dimensions              | 146.4 x 70.6 x 9.4 mm             |
 | Display                 | 1080 x 1920 pixels, Super LCD3    |
-| Camera                  | Dual 4 MP, 2688х1520 pixels       |
-| Release Date            | June 2014                         |
+| Camera                  | ?      |
+| Release Date            | End 2015                         |
 
-
-## Device Picture
-
-![HTC One M8](http://wiki.cyanogenmod.org/images/thumb/5/55/M8.png/292px-M8.png "HTC One M8")
 
 ## Copyright
 
